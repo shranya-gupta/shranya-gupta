@@ -2,7 +2,7 @@
 🔭 I’m currently working on **Emergency Sign Detection Project**  
 👯 I’m looking to collaborate on **AI/ML and data science**  
 🌱 I’m currently learning **AWS Cloud Computing,Cyber Security**  
-💬 Ask me about **Tensorflow, OpenCV**  
+💬 Ask me about **Tensorflow, OpenCV,Keras**  
 ⚡ Fun fact: *Avid reader, Movie Connoisseur, Foodie*  
 
 ---
